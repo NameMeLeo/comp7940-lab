@@ -1,7 +1,7 @@
 version: '3'
 services:
     chatbot:
-        image: 7940image
+        image: comp7940
         environment:
             ACCESS_TOKEN: 5851381047:AAEMNUka4JJcLLxTtvqGIvavCFupkHaWZ5E
             HOST: redis-16541.c253.us-central1-1.gce.cloud.redislabs.com

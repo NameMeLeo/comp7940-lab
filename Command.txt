@@ -1,0 +1,1 @@
+docker run  --name lab7partA -d --env ACCESS_TOKEN=5851381047:AAEMNUka4JJcLLxTtvqGIvavCFupkHaWZ5E --env HOST=redis-16541.c253.us-central1-1.gce.cloud.redislabs.com --env PASSWORD=pQROReXe9oLSECAcqhAjdeAnEjzBL1ZO --env REDISPORT=16541 comp7940 python chatbot.py
